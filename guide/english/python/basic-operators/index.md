@@ -73,7 +73,7 @@ Note: To get the result as floating type, one of the operands must also be of fl
 
 #### Comparison (Relational) Operators
 
-A comparison or relational operator is used to compare two operands to determine the relationship between them. It returns a boolean value based on the condition. my chages
+A comparison or relational operator is used to compare two operands to determine the relationship between them. It returns a boolean value based on the condition.Python is amazing programming language
 
 <table style="width:100%">
   <tr>
